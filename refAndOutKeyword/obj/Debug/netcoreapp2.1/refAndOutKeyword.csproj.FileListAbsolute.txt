@@ -1,0 +1,11 @@
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\bin\Debug\netcoreapp2.1\refAndOutKeyword.deps.json
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\bin\Debug\netcoreapp2.1\refAndOutKeyword.runtimeconfig.json
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\bin\Debug\netcoreapp2.1\refAndOutKeyword.runtimeconfig.dev.json
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\bin\Debug\netcoreapp2.1\refAndOutKeyword.dll
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\bin\Debug\netcoreapp2.1\refAndOutKeyword.pdb
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.csprojAssemblyReference.cache
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.AssemblyInfoInputs.cache
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.AssemblyInfo.cs
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.dll
+C:\Users\Melda\source\repos\refAndOutKeyword\refAndOutKeyword\obj\Debug\netcoreapp2.1\refAndOutKeyword.pdb
